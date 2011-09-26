@@ -7,7 +7,7 @@ class Alice extends CI_Controller {
 		$this->bootstrap();
 	}
 	
-	private function bootstrao() {
+	private function bootstrap() {
 		;
 	}
 
