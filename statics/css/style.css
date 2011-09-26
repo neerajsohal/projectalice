@@ -1,3 +1,11 @@
 body {
 	font-family: "open Sans", Helvetica, Sans;
 }
+
+.inputbox {
+	width: 300px;
+	margin: 0 auto;
+}
+.inputbox #text {
+	width: 250px;
+}
