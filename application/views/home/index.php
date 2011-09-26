@@ -3,6 +3,7 @@
 <p>Project alice is an implementation of naive bayesian classifiers in php.</p>
 
 <div class="inputbox">
+	<h2>Ask Alice:</h2>
 	<input type="text" name="text" id="text" value="Enter text here..." />
 </div>
 
