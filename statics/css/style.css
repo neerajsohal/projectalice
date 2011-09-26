@@ -3,9 +3,12 @@ body {
 }
 
 .inputbox {
-	width: 300px;
-	margin: 0 auto;
+	width: 500px;
+	margin: 0 auto;	
 }
 .inputbox #text {
-	width: 250px;
+	width: 100%;
+	border: 1px solid #ddd;
+	padding: 10px;
+	font-size: 1.3em;
 }
